@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmmanuelOuzan
-- 👀 I’m interested in The TEch world, specially devops! :) 
-- 🌱 I’m currently learning Devops!
+- 👀 I’m interested in The tech world, specially devops! :) 
+- 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on Cool projects
 - 📫 How to reach me By mail, Emmanuel.ouzan@gmail.com
 
